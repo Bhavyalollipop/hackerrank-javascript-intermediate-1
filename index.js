@@ -32,5 +32,6 @@
         index = index + 1
         return count(newMatch,index) (match, string)
     }
-    return count([], 0) (match, string)
+     var M = 1000000007;
+    return ( count([], 0) (newName, oldName) ) % M
 }
