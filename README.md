@@ -1,0 +1,2 @@
+# hackerrank-javascript-intermediate-1
+You want to rename a certain file on your computer. However, because of a glitch, you can't rename it to whatever you want—you can only delete characters from the old file name. In other words, the new file name must be a subsequence of the original file name. Given the original file name, as well as the file name you'd like to change it to, how many ways are there to create the new file name by just removing characters?
